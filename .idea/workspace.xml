@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fd7c7db-3e75-4295-aae1-24a09ce03859" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/images/WhatsApp Image 2018-05-12 at 17.18.01.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/WhatsApp Image 2018-05-12 at 17.18.03 (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/WhatsApp Image 2018-05-12 at 17.18.04 (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/WhatsApp Image 2018-05-12 at 17.18.04.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/WhatsApp Image 2018-05-12 at 17.18.05 (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/WhatsApp Image 2018-05-12 at 17.18.05 (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/WhatsApp Image 2018-05-12 at 17.18.05.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/WhatsApp Image 2018-05-12 at 17.18.06 (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/WhatsApp Image 2018-05-12 at 17.18.06.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/WhatsApp Image 2018-05-12 at 17.18.07 (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/WhatsApp Image 2018-05-12 at 17.18.07.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -24,26 +32,74 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="142" column="134" selection-start-line="140" selection-start-column="28" selection-end-line="142" selection-end-column="134" />
+            <state relative-caret-position="324">
+              <caret line="81" column="74" selection-start-line="81" selection-start-column="74" selection-end-line="81" selection-end-column="74" />
+              <folding>
+                <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
+      <file leaf-file-name="testimonials.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testimonials.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="2344" column="5" selection-start-line="2344" selection-start-column="5" selection-end-line="2344" selection-end-column="5" />
+            <state relative-caret-position="393">
+              <caret line="101" selection-start-line="101" selection-end-line="101" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gallery.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6281" column="3" selection-start-line="6281" selection-start-column="3" selection-end-line="6281" selection-end-column="3" />
+            <state relative-caret-position="512">
+              <caret line="199" column="101" selection-start-line="199" selection-start-column="101" selection-end-line="199" selection-end-column="101" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#7;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#7;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#figure#0;n#div#0;n#div#7;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="weeklyClinicSchedule.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weeklyClinicSchedule.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="107" column="3" selection-start-line="107" selection-end-line="189" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="facilities.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/facilities.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="107" column="4" selection-start-line="107" selection-end-line="240" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -62,6 +118,7 @@
       <find>trauma</find>
       <find>mak</find>
       <find>1.jpg</find>
+      <find>reach</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -75,9 +132,9 @@
         <option value="$PROJECT_DIR$/contactUs.html" />
         <option value="$PROJECT_DIR$/docPanel.html" />
         <option value="$PROJECT_DIR$/facilities.html" />
-        <option value="$PROJECT_DIR$/gallery.html" />
         <option value="$PROJECT_DIR$/testimonials.html" />
         <option value="$PROJECT_DIR$/weeklyClinicSchedule.html" />
+        <option value="$PROJECT_DIR$/gallery.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -163,18 +220,18 @@
       <option name="presentableId" value="Default" />
       <updated>1525539507368</updated>
       <workItem from="1525539508508" duration="1852000" />
-      <workItem from="1525977846141" duration="23351000" />
+      <workItem from="1525977846141" duration="25064000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25203000" />
+    <option name="totallyTimeSpent" value="26916000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1602" height="912" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24984147" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29866835" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -223,6 +280,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1430">
           <caret line="65" column="50" selection-start-line="65" selection-start-column="50" selection-end-line="65" selection-end-column="50" />
+          <folding>
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -263,29 +327,6 @@
     <entry file="file://$PROJECT_DIR$/icons.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-10449" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testimonials.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="101" selection-start-line="101" selection-end-line="101" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weeklyClinicSchedule.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="101" selection-start-line="101" selection-end-line="101" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
@@ -333,26 +374,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
           <caret line="101" selection-start-line="101" selection-end-line="101" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/facilities.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="101" selection-start-line="101" selection-end-line="101" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="102" selection-start-line="102" selection-end-line="102" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
@@ -427,10 +448,68 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/facilities.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="107" column="4" selection-start-line="107" selection-end-line="240" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weeklyClinicSchedule.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="107" column="3" selection-start-line="107" selection-end-line="189" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testimonials.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="199" column="101" selection-start-line="199" selection-start-column="101" selection-end-line="199" selection-end-column="101" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#7;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#7;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#figure#0;n#div#0;n#div#7;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="142" column="134" selection-start-line="140" selection-start-column="28" selection-end-line="142" selection-end-column="134" />
+        <state relative-caret-position="324">
+          <caret line="81" column="74" selection-start-line="81" selection-start-column="74" selection-end-line="81" selection-end-column="74" />
+          <folding>
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
