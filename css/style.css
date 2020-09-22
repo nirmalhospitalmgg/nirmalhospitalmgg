@@ -270,7 +270,7 @@ ul.forms_right li {
 	font-size: 18px;
 	line-height: 0px!important;
 	height: 0px!important;
-	
+
 }
 
 .navbar-default a.navbar-brand h1 {
@@ -662,9 +662,7 @@ a.wthree-.about-link {
     line-height: 1.8em;
     color: #999;
 }
-.agileits-about-grid1 {
-    /* border: 1px solid #000; */
-    background: #6cb354;
+
 }
 .agileits-about-grid2 {
     /* border: 1px solid #000; */
@@ -858,7 +856,7 @@ span.eme {
     -o-background-size: cover;
     -ms-background-size: cover;
     background-attachment: fixed;
-    
+
 }
 .tesimonials_tp {
     background: rgba(0, 0, 0, 0.47);
@@ -1242,7 +1240,7 @@ a.read-agileits:hover {
     text-decoration: none;
     font-weight: 400;
     letter-spacing: 1px;
-} 
+}
 .panel-title a.pa_italic.collapsed {
     background: #fff;
     color: #333;
@@ -1265,7 +1263,7 @@ a.read-agileits:hover {
 }
 .panel-default > .panel-heading {
     color: #212121;
-    background-color: #fff; 
+    background-color: #fff;
 }
 .panel-body {
     padding: 1.5em 2em;
@@ -1274,7 +1272,7 @@ a.read-agileits:hover {
     color: #999;
 	border-top-color: transparent;
 	-webkit-box-shadow: 0px 0px 1px #aaa;
-	-moz-box-shadow: 0px 0px 1px #aaa; 
+	-moz-box-shadow: 0px 0px 1px #aaa;
     box-shadow: 0px 0px 1px #aaa;
     background: #fff;
 }
@@ -1285,7 +1283,7 @@ a.pa_italic label {
 a.pa_italic:focus {
     outline: none;
     text-decoration: none;
-} 
+}
 .panel-default > .panel-heading + .panel-collapse > .panel-body {
     border-top-color: #fff;
 }
@@ -1310,7 +1308,7 @@ a.pa_italic:focus {
     -ms-transition: 0.5s all;
     -moz-transition: 0.5s all;
     cursor: pointer;
-} 
+}
 .icon-box:hover {
     background: #000;
 	transition:0.5s all;
@@ -1329,11 +1327,11 @@ a.pa_italic:focus {
     float: left;
     width: 12.5%;
     height: 115px;
-    padding: 10px; 
+    padding: 10px;
     line-height: 1.4;
-    text-align: center;  
+    text-align: center;
     font-size: 12px;
-    list-style-type: none;	
+    list-style-type: none;
 }
 .codes .bs-glyphicons .glyphicon {
     margin-top: 5px;
@@ -1351,7 +1349,7 @@ a.pa_italic:focus {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 	color: #777;
-} 
+}
 .codes .bs-glyphicons .glyphicon-class {
     display: block;
     text-align: center;
@@ -1408,7 +1406,7 @@ h3.agileits-icons-title {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 	color: #777;
-} 
+}
 .bs-glyphicons .glyphicon-class {
     display: block;
     text-align: center;
@@ -1519,7 +1517,7 @@ li.list-group-item1 {
 .label {
 	font-weight: 300 !important;
 	border-radius:4px;
-}  
+}
 .grid_5{
 	background:none;
 	padding:2em 0;
@@ -1907,7 +1905,7 @@ table.table.table-striped,.table-bordered,.bs-docs-example {
 
 /* Common style */
 .grid figure {
-	position: relative;	
+	position: relative;
 	overflow: hidden;
 	margin: 10px 0;
 	height: auto;
