@@ -798,11 +798,11 @@ span.eme {
     text-align: center;
     background: #00ff00;
     background: #ffc107;
-	background:#fff;
+	background:#00ff00;
     padding: 25px 40px;
-    -webkit-box-shadow: 0 0 40px #aaa;
-    -moz-box-shadow: 0 0 40px #aaa;
-    box-shadow: 0 0 40px #aaa;
+    -webkit-box-shadow: 0 0 40px #00ff00;
+    -moz-box-shadow: 0 0 40px #00ff00;
+    box-shadow: 0 0 40px #00ff00;
     -webkit-transition: all 0.5s;
     -moz-transition: all 0.5s;
     transition: all 0.5s;
