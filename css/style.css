@@ -796,13 +796,13 @@ span.eme {
 }
 .grid1 {
     text-align: center;
-    background: #00ff00;
+    background: #CCCCEE;
     background: #ffc107;
-	background:#00ff00;
+	background:#CCCCEE;
     padding: 25px 40px;
-    -webkit-box-shadow: 0 0 40px #00ff00;
-    -moz-box-shadow: 0 0 40px #00ff00;
-    box-shadow: 0 0 40px #00ff00;
+    -webkit-box-shadow: 0 0 40px #CCCCEE;
+    -moz-box-shadow: 0 0 40px #CCCCEE;
+    box-shadow: 0 0 40px #CCCCEE;
     -webkit-transition: all 0.5s;
     -moz-transition: all 0.5s;
     transition: all 0.5s;
